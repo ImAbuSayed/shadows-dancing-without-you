@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadows-dancing-without-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Shadows Dancing Without You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-dancing-without-you/) |
+| **Get License** | [Obtain a Music License for Shadows Dancing Without You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-dancing-without-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I watch the shadows dancing without you
+> I need the magic that we always knew
+> The porch light flickers but I miss your fire
+> I trace your name in the dust of desire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
