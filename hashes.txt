@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shadows Dancing Without You
+
+This log tracks the cryptographic history and versioning for the song **Shadows Dancing Without You** (shadows-dancing-without-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T18:50:33.716069 | `v1` | `2c699ddd6e37b829d03c9216c244b7cf6f28b702195033d7c5279334e9371489` | `b2bea22f76c7c89f3532798d09e744ceb4695132d6be97c47ce94cf702dafd50` | `2026-06-10_shadows-dancing-without-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadows-dancing-without-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Shadows Dancing Without You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-dancing-without-you/) |
+| **Get License** | [Official Music Licensing for Shadows Dancing Without You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-dancing-without-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2c699ddd6e37b829d03c9216c244b7cf6f28b702195033d7c5279334e9371489` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
